@@ -27,3 +27,4 @@ What I'd do differently
 [This section matters more than it looks — admissions readers and interviewers respond well to real reflection. Fill in honestly once you've run it, e.g.: "I initially let the AI-generated code create tables without row-level security, which would have let any delegate read every other delegate's submitted files. I rebuilt the schema with RLS policies tested against a second account before launch." or "I underestimated file storage limits on the free tier and had to add a 2MB upload cap partway through."]
 Screenshots
 [Add 2-3 screenshots here: delegate dashboard, submission page, chair view]
+Built for St. Francis Convent Inter College, Model United Nations, 2026.
